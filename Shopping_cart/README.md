@@ -10,4 +10,6 @@ This is a basic shopping cart application  created as part of practice for **rea
 
 #### :camera:Screenshot :
 
+[![Scrrenshot](https://github.com/SPARSHpathak2002/React/blob/main/Shopping_cart/preview/Capture.JPG "Scrrenshot")](https://github.com/SPARSHpathak2002/React/blob/main/Shopping_cart/preview/Capture.JPG "Scrrenshot")
 
+#### ❤️: Coding 
