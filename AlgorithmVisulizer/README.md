@@ -7,4 +7,4 @@ An Algorithm Visualizer that uses visual effects to explain how comparing sortin
 
 ### Preview
 
-[SortingAlgoVisualizer](https://dreamy-valkyrie-9dde92.netlify.app/)
+[SortingAlgoVisualizer](https://sortalgoviz.netlify.app/)
