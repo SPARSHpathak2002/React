@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.Editor {
+  background-color: black;
+  color: white;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  display: flex;
+  overflow-y: scroll;
+  padding-top: 16px;
+}
+.lineNumber {
+  padding: 2px 8px;
+}
+.writingSpace {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  caret-color: white 
+}
+.writingSpace:focus {
+  outline: none;
+  caret-color: white;
+}
+.editorFont {
+  font-size: 16px !important;
+}
+.Numbers {
+  text-align: right;
+}
+.Editor-Console{
+  background-color: black;
+  color: white;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+.writingSpace-Console{
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  overflow: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  caret-color: white;
+  background-color: black;
+  padding-left: 8px;
+  resize: none;
+  color: white;
+}
+.writingSpace-Console:focus{
+  outline: none;
+  caret-color: white;
+}
+.console{
+  width: 100%;
+  max-width: 100%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  overflow: auto;
+  background-color: black;
+  white-space: pre-line;
+  padding-left: 8px;
+}
